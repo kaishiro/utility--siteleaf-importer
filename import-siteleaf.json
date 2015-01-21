@@ -1,0 +1,13 @@
+[{
+  "title":"Post 1",
+  "body":"Body goes here.",
+  "tags":["Tag 1", "Tag 2"],
+  "slug":"post-1",
+  "published_at":"2013-06-05T18:24:59-04:00"
+}, {
+  "title":"Post 2",
+  "body":"Body goes here.",
+  "tags":["Tag 1", "Tag 2"],
+  "slug":"post-2",
+  "published_at":"2013-06-05T18:24:59-04:00"
+}]
